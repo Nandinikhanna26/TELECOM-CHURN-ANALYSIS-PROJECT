@@ -4,11 +4,11 @@ This project presents a detailed end-to-end analysis of telecom customer churn. 
 
 # Tools:
 
-Python: Used for data cleaning, preprocessing, and exploratory data analysis (EDA).
+Python Used for data cleaning, preprocessing, and exploratory data analysis (EDA).
 
-SQL: Applied for extracting insights and segmenting churn behavior.
+SQL Applied for extracting insights and segmenting churn behavior.
 
-Power BI: Used to create an interactive dashboard for visualization and business reporting.
+Power BI Used to create an interactive dashboard for visualization and business reporting.
 
 # Objective
 
@@ -73,9 +73,19 @@ SQL queries and results documented in (https://github.com/Nandinikhanna26/TELECO
 Power BI dashboard image (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Dashboard.png)
 
 Six visual insights derived from SQL and EDA 
+
+
 (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Insight%201.png)
+
+
 (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Insight%202.png)
+
+
 (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Insight%203.png)
+
+
+(https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Insight%204.png)
+
 
 
 # Conclusion
