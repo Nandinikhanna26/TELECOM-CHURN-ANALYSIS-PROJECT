@@ -68,7 +68,7 @@ Highest average monthly charges found in: Delhi and Jammu & Kashmir
 
 Python notebooks containing data cleaning and EDA (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/final_telco_project.ipynb)
 
-SQL queries and results documented in (final_telco_project.ipynb)
+SQL queries and results documented in (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/final_telco_project.ipynb)
 
 Power BI dashboard image (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Dashboard.png)
 
