@@ -75,6 +75,7 @@ Power BI dashboard image (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALY
 Six visual insights derived from SQL and EDA 
 (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Insight%201.png)
 (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Insight%202.png)
+(https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Insight%203.png)
 
 
 # Conclusion
