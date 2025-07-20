@@ -72,7 +72,10 @@ SQL queries and results documented in (https://github.com/Nandinikhanna26/TELECO
 
 Power BI dashboard image (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Dashboard.png)
 
-Six visual insights derived from SQL and EDA (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Insight%201.png)
+Six visual insights derived from SQL and EDA 
+(https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Insight%201.png)
+(https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Insight%202.png)
+
 
 # Conclusion
 
