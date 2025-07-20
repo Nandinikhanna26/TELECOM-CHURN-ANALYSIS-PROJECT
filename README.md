@@ -78,3 +78,10 @@ Six visual insights derived from SQL and EDA (Insight 1.png to Insight 6.png)
 
 This analysis identifies key churn patterns and offers a data-driven foundation for designing targeted customer retention strategies. Focused improvements in contract structures, bundled deals, and service upgrades can directly reduce churn and improve customer satisfaction.
 
+# About Me
+
+I'm a 3rd year engineering student passionate about solving real-world business problems with data.
+This project reflects my ability to clean messy data, write insightful SQL, and turn raw info into executive-ready dashboards.
+
+Let’s connect on https://www.linkedin.com/in/nandini-khanna-18a622325/
+
