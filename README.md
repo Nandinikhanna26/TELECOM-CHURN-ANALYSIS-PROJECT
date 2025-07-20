@@ -87,6 +87,9 @@ Six visual insights derived from SQL and EDA
 (https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Insight%204.png)
 
 
+(https://github.com/Nandinikhanna26/TELECOM-CHURN-ANALYSIS-PROJECT/blob/main/Insight%205.png)
+
+
 
 # Conclusion
 
